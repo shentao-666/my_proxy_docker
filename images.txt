@@ -1,2 +1,1 @@
-docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
-docker.io/flannel/flannel:v0.25.5
+busybox 
