@@ -1,1 +1,1 @@
-tomcat:8.5.84-jdk8
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
