@@ -1,2 +1,3 @@
 eipwork/etcd-host:3.4.16-2
 eipwork/kuboard:v3
+eipwork/kuboard-agent:v3
