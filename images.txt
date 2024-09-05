@@ -1,3 +1,2 @@
-eipwork/etcd-host:3.4.16-2
-eipwork/kuboard:v3
-eipwork/kuboard-agent:v3
+docker.io/flannel/flannel-cni-plugin:v1.4.0-flannel1
+docker.io/flannel/flannel:v0.24.3
