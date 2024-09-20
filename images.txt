@@ -1,4 +1,4 @@
 kubesphere/ks-installer:v3.4.0
 kubesphere/ks-console:v3.4.0
-kubesphere/ks-controller:v3.4.0
-kubesphere/ks-apiserver:v3.4.0
+#kubesphere/ks-controller:v3.4.0
+#kubesphere/ks-apiserver:v3.4.0
