@@ -1,1 +1,2 @@
-docker.io/calico/kube-controllers:v3.28.5
+--platform=linux/amd64 gitlab/gitlab-ee:17.11.6-ee.0
+--platform=linux/amd64 gitlab/gitlab-ce:17.11.6-ce.0
