@@ -1,1 +1,1 @@
---platform=linux/amd64 google/cadvisor:v0.33.0
+--platform=linux/amd64 bitnami/cadvisor:0.53.0
