@@ -1,1 +1,2 @@
---platform=linux/amd64 bitnami/cadvisor:0.53.0
+--platform=linux/amd64 jenkins/jenkins:2.516.1-lts
+
