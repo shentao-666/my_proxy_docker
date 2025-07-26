@@ -1,2 +1,2 @@
---platform=linux/amd64 jenkins/jenkins:2.516.1-lts
+--platform=linux/amd64 jenkins/jenkins:2.346.3-2-lts-jdk8
 
